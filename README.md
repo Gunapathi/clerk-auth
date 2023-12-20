@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project.
 
+## View Demo 
+
+[Demo link](https://clerk-auth-ltkqub2ur-gunapathi-s.vercel.app/) hosted on Vercel
+
 ## Getting Started
 
 First, run the development server:
